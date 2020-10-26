@@ -1,0 +1,22 @@
+{
+  "name": "Discord js obfuscator",
+  "version": "1.0.0",
+  "description": "Simple discord javascript obfuscator bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "download": "^8.0.0",
+    "fs": "0.0.1-security",
+    "javascript-obfuscator": "^2.6.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/rutkuli/Discord-javascript-obfuscator"
+  },
+  "license": "MIT"
+}
