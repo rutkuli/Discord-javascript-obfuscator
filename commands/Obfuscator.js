@@ -1,7 +1,4 @@
-const {
-    Discord,
-    MessageAttachment
-} = require('discord.js'); /*npm install discord.js*/
+const {Discord,MessageAttachment} = require('discord.js'); /*npm install discord.js*/
 const Config = require('../config.json');
 const download = require('download'); /*npm install download*/
 const fs = require('fs'); /*npm install fs*/
