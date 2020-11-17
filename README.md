@@ -1,4 +1,4 @@
-## Discord Javascript obfuscator
+## Discord Javascript obfuscator [![](https://www.codefactor.io/repository/github/rutkuli/discord-javascript-obfuscator/badge)](https://www.codefactor.io/repository/github/rutkuli/discord-javascript-obfuscator)
 
 **Simple discord javascript obfuscator bot**
 - Notice this source code is not the best, especially command handlers 
